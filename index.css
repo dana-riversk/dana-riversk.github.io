@@ -3,3 +3,11 @@
 h1 {
     margin: 3%;
 }
+
+/*Etape 8 – ajout d'une classe pour modifier le style de la phrase qui apparaîtra en bas de ma page web*/
+.pub {
+    font-size: 200%;
+    font-weight: bold;
+    text-align: center;
+    color:darkred;
+}
